@@ -61,3 +61,5 @@ and prints those whose publickey matches the user.
 - VerifyTransactions : Blockchain Class
 - CreateBlock : Blockchain Class.
 - ViewUser : Blockchain Class
+
+Based on https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa <br>
